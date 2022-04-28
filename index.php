@@ -39,7 +39,6 @@
 
   <!-- this line of code will tell the user whether or not they have gotten their guess right -->
   <iframe id="guess-results" name="guess-results">
-    Wow! the volume will now be shared :) " + $volume + cm<sup>3</sup>"
   </iframe>
 </body>
 </html>
